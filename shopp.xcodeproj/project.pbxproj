@@ -13,6 +13,8 @@
 		A73883E4263361910064B985 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A73883E2263361910064B985 /* Main.storyboard */; };
 		A73883E6263361920064B985 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A73883E5263361920064B985 /* Assets.xcassets */; };
 		A73883E9263361920064B985 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A73883E7263361920064B985 /* LaunchScreen.storyboard */; };
+		A73883F1263369BC0064B985 /* chogokubosogothic_5.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A73883F0263369BC0064B985 /* chogokubosogothic_5.ttf */; };
+		A73883F9263384390064B985 /* LouisvuittonTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A73883F8263384390064B985 /* LouisvuittonTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		A73883E5263361920064B985 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A73883E8263361920064B985 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A73883EA263361920064B985 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A73883F0263369BC0064B985 /* chogokubosogothic_5.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = chogokubosogothic_5.ttf; sourceTree = "<group>"; };
+		A73883F8263384390064B985 /* LouisvuittonTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LouisvuittonTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +44,7 @@
 		A73883D0263361910064B985 = {
 			isa = PBXGroup;
 			children = (
+				A73883F8263384390064B985 /* LouisvuittonTableViewController.swift */,
 				A73883DB263361910064B985 /* shopp */,
 				A73883DA263361910064B985 /* Products */,
 			);
@@ -56,6 +61,7 @@
 		A73883DB263361910064B985 /* shopp */ = {
 			isa = PBXGroup;
 			children = (
+				A73883F0263369BC0064B985 /* chogokubosogothic_5.ttf */,
 				A73883DC263361910064B985 /* AppDelegate.swift */,
 				A73883DE263361910064B985 /* SceneDelegate.swift */,
 				A73883E0263361910064B985 /* ViewController.swift */,
@@ -124,6 +130,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A73883F1263369BC0064B985 /* chogokubosogothic_5.ttf in Resources */,
 				A73883E9263361920064B985 /* LaunchScreen.storyboard in Resources */,
 				A73883E6263361920064B985 /* Assets.xcassets in Resources */,
 				A73883E4263361910064B985 /* Main.storyboard in Resources */,
@@ -137,6 +144,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A73883F9263384390064B985 /* LouisvuittonTableViewController.swift in Sources */,
 				A73883E1263361910064B985 /* ViewController.swift in Sources */,
 				A73883DD263361910064B985 /* AppDelegate.swift in Sources */,
 				A73883DF263361910064B985 /* SceneDelegate.swift in Sources */,
